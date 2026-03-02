@@ -13,12 +13,12 @@ Soy un desarrollador autodidácta, enfocado en creaciones de sitios web, enfocad
 * **Qué es:** Sitio web oficial para mi estudio de videojuegos. Desarrollo desde cero con diseño moderno, menú responsivo ("hamburguesa") para móviles y efectos de UI avanzados.
 * **Link:** [Ver la web aquí](https://leooo2005.github.io/Dominion-Entertainment/)
 
-* **2. SITIO WEB DEMO (WEB DE COMIDAS RAPIDAS):**
+***2. SITIO WEB DEMO (WEB DE COMIDAS RAPIDAS):**
 * **Rol:** Front-End Developer
 * **Que herramientas ocupe:** Las herramientas que ocupe, fue el programa VSC *Visual Studio Code*, con HTML, CSS y JS.
 * **Link:** [Ver la web aquí](https://leooo2005.github.io/Pagina_Web_Demo1/)
 
-* **3. SITIO WEB DEMO (CAFETERIA):**
+***3. SITIO WEB DEMO (CAFETERIA):**
 * **Rol:** Front-End Developer
 * **Que herramientas ocupe:** Las herramientes que ocupe, programa VSC *Visual Studio Code*, con HTML, CSS Y JS.
 * **Link:** [Ver la web aquí](https://leooo2005.github.io/SITIO_WEB_DEMO_cafeteria/)
