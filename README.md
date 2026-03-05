@@ -18,12 +18,12 @@ Soy un desarrollador autodidácta, enfocado en creaciones de sitios web, enfocad
 * **Qué es:** Es un sitio web, donde los clientes pueden ver los diseños web, para que puedan aplicar para sus negocios. Donde los clientes puedden contactarme directamente, para poder hacerles una cotización.
 * **Link:** [Ver la Web aquí}(https://leooo2005.github.io/DOMINION-STUDIO/)
 
-***2. SITIO WEB DEMO (WEB DE COMIDAS RAPIDAS):**
+***3. SITIO WEB DEMO (WEB DE COMIDAS RAPIDAS):**
 * **Rol:** Front-End Developer
 * **Que herramientas ocupe:** Las herramientas que ocupe, fue el programa VSC *Visual Studio Code*, con HTML, CSS y JS.
 * **Link:** [Ver la web aquí](https://leooo2005.github.io/Pagina_Web_Demo1/)
 
-***3. SITIO WEB DEMO (CAFETERIA):**
+***4. SITIO WEB DEMO (CAFETERIA):**
 * **Rol:** Front-End Developer
 * **Que herramientas ocupe:** Las herramientes que ocupe, programa VSC *Visual Studio Code*, con HTML, CSS Y JS.
 * **Link:** [Ver la web aquí](https://leooo2005.github.io/SITIO_WEB_DEMO_cafeteria/)
