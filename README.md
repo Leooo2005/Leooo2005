@@ -7,7 +7,7 @@ Soy un desarrollador autodidácta, enfocado en creaciones de sitios web, enfocad
 * **Software y Scripts:** Java, Python
 * **Game Dev & 3D:** Godot, Unreal Engine 5, Blender
 
-### Mis Proyectos Destacados
+### Mis empresas:
 **1. Dominion Entertainment (Página Web Oficial)**
 * **Rol:** Desarrollador Front-end y Diseañador
 * **Qué es:** Sitio web oficial para mi estudio de videojuegos. Desarrollo desde cero con diseño moderno, menú responsivo ("hamburguesa") para móviles y efectos de UI avanzados.
@@ -18,15 +18,6 @@ Soy un desarrollador autodidácta, enfocado en creaciones de sitios web, enfocad
 * **Qué es:** Es un sitio web, donde los clientes pueden ver los diseños web, para que puedan aplicar para sus negocios. Donde los clientes puedden contactarme directamente, para poder hacerles una cotización.
 * **Link:** [Ver la Web aquí}(https://leooo2005.github.io/DOMINION-STUDIO/)
 
-***3. SITIO WEB DEMO (WEB DE COMIDAS RAPIDAS):**
-* **Rol:** Front-End Developer
-* **Que herramientas ocupe:** Las herramientas que ocupe, fue el programa VSC *Visual Studio Code*, con HTML, CSS y JS.
-* **Link:** [Ver la web aquí](https://leooo2005.github.io/Pagina_Web_Demo1/)
-
-***4. SITIO WEB DEMO (CAFETERIA):**
-* **Rol:** Front-End Developer
-* **Que herramientas ocupe:** Las herramientes que ocupe, programa VSC *Visual Studio Code*, con HTML, CSS Y JS.
-* **Link:** [Ver la web aquí](https://leooo2005.github.io/SITIO_WEB_DEMO_cafeteria/)
 
 ### Mis Proyectos en Desarrollo
 **1. Desarrollo de Videojuego (Primer Prototipo del Juego) Terror**:
