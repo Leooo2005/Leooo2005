@@ -1,36 +1,31 @@
-# ¡Hola! Soy Leo 👋
-
-Soy un desarrollador autodidácta, enfocado en creaciones de sitios web, enfocado en construir experiencias digitales atractivas. Actualmente dirijo una empresa de videojuegos *Dominion Entertainment*, donde combino mis conocimientos de programación lógica con el diseño web y el desarrollo de videojuegos.
-
-### Tecnologías y Herramientas 
-* **Desarrollo Web:** HTML5, CSS3, JavaScript (Diseño Responsivo)
-* **Software y Scripts:** Java, Python
-* **Game Dev & 3D:** Godot, Unreal Engine 5, Blender
-
-### Mis empresas:
-**1. Dominion Entertainment (Página Web Oficial)**
-* **Rol:** Desarrollador Front-end y Diseañador
-* **Qué es:** Sitio web oficial para mi estudio de videojuegos. Desarrollo desde cero con diseño moderno, menú responsivo ("hamburguesa") para móviles y efectos de UI avanzados.
-* **Link:** [Ver la web aquí](https://leooo2005.github.io/Dominion-Entertainment/)
-
-***2. DOMINION STUDIOS (Pagina para Diseño web)***
-* **Rol:** Desarrollador front-end y Diseñador
-* **Qué es:** Es un sitio web, donde los clientes pueden ver los diseños web, para que puedan aplicar para sus negocios. Donde los clientes puedden contactarme directamente, para poder hacerles una cotización.
-* **Link:** [Ver la Web aquí}(https://leooo2005.github.io/DOMINION-STUDIO/)
+# 💫 About Me:
+¡Hola! Soy Leo 👋<br><br>Soy un desarrollador autodidacta especializado en la creación de sitios web y en la construcción de experiencias digitales atractivas. Actualmente dirijo el estudio Dominion Entertainment, donde combino mis conocimientos de lógica de programación con el diseño web y el desarrollo de videojuegos.<br><br>🛠️ Tecnologías y Herramientas<br><br>Desarrollo Web: HTML5, CSS3, JavaScript (Diseño Responsivo)<br><br>Software y Scripts: Java, Python<br><br>Game Dev & 3D: Godot, Unreal Engine 5, Blender<br><br>🏢 Mis Empresas<br><br>1. Dominion Entertainment<br><br>Rol: Desarrollador Front-end y Diseñador.<br><br>Descripción: Sitio web oficial para mi estudio de videojuegos. Desarrollado desde cero con un diseño moderno, menú responsivo para móviles y efectos de interfaz de usuario (UI) avanzados.<br><br>Enlace: Ver la web oficial aquí (Asegúrate de colocar tu enlace real aquí)<br><br>2. DOMINION STUDIOS<br><br>Rol: Desarrollador Front-end y Diseñador.<br><br>Descripción: Agencia de diseño web donde los clientes pueden visualizar portafolios, aplicar diseños para sus propios negocios y contactarme directamente para cotizaciones personalizadas.<br><br>Enlace: Ver la plataforma aquí<br><br>🎮 Proyectos en Desarrollo<br><br>1. Proyecto: Videojuego de Terror Analógico (Título en proceso)<br><br>Visión del Proyecto: Un título de terror que busca romper con los esquemas tradicionales. El juego se enfoca en mecánicas inmersivas, terror analógico y tensión psicológica, situando al jugador en escenarios de alta presión laboral y entornos hostiles para generar una experiencia visceral y realista.<br><br>Mi Rol: Desarrollador Principal y Modelador 3D. Enfocado en dar vida a la visión del juego y asegurar que el entorno se sienta genuino y opresivo.<br><br>Roadmap de Desarrollo:<br><br>2026 (Mediados): Apertura de redes sociales de Dominion Entertainment para publicar teasers y avances del desarrollo sin revelar spoilers clave.<br><br>2030 (Mediados): Lanzamiento previsto de la versión DEMO. (Ciclo de desarrollo extendido para asegurar la calidad y optimización de recursos tecnológicos).<br><br>2031 (Mediados): Lanzamiento previsto de la Versión Completa con todas las mecánicas visuales y narrativas implementadas.<br><br>Equipo (Dominion Entertainment):<br><br>Kevin Leonel (Fundador): Desarrollo general, mecánicas y modelado 3D.<br><br>Andy Joel (Co-Fundador): Control de Calidad (QA), búsqueda de bugs, corrección de errores de programación y pulido de la experiencia de usuario.<br><br>2. Pruebas de Entorno 3D y Físicas<br><br>Motor: Unreal Engine 5 y Blender.<br><br>Descripción: Proyecto técnico enfocado en la exportación e integración de assets 3D desde Blender hacia Unreal Engine 5, implementando scripts de movimiento, físicas avanzadas y mecánicas base para juegos de terror.
 
 
-### Mis Proyectos en Desarrollo
-**1. Desarrollo de Videojuego (Primer Prototipo del Juego) Terror**:
-* **Rol:** Desarrollador enfocado en mecánicas diferentes al del resto de videojuegos.
-* **Qué tiempo tardará:** El Desarrollo del videojuego, va a tener dos partes, la versión *DEMO* y la versión *COMPLETO*.
-* La versión *DEMO*, va a salir a mediados del año **2030** va a tardar mas de 3 años en el desarrollo devido a falta de recursos tecnológicos para el desarrollo.
-* La versión *Completa*, a salir a medidados del año **2031**, esta versión completa, va a resaltar, por mecánicas, diferentes, con distintos efectos visuales, más enfocado en el terror analógico.
-* **Avisos del juego:** A medidados de este año **2026**, voy a crear redes sociales de la empresa **DOMINION ENTERTAINMEN** para subir, partes del juego, que no vean todo el spoiler del Demo.
-* **Que incluira:** En el videojuego, va a incluir, humillaciones, momentos tensos, escenas donde el Usuario va a sentir algo inimaginable, momentos de humillaciones, burlas de parte del jefe, trabajo duro, moemntos explotados.
-* **REQUISITOS:** Actualmente no tengo previsto que resitos van a tener para la calidad "Extremo, Ultra, Alto, Medio y Bajo".
-* **Equipo del proyecto:** Como *DOMINION ENTERTAINMENT* recien esta viendo la luz, el equipo se conforma de dos personas. Kevin Leonel **Fundador** de *Dominion Entertainmet* y Andy Joel **Co-Fundador** de *Dominion Entertainment*.
-* **Fundador:** Encargado en el desarrollo del videojuego, enfocado en el modelo 3d, con una visión clara. Que es, que el juego se sienta real.
-* **Co-Fundador:** Encargado, de buscar buggs, errores de programación, huecos en el juego, solucionar todo tipo de anomalias, para que el juego este pulido y listo para lanzar.
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/leonella2005) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its_leovv) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dominion.ent.dev@gmail.com) 
 
-**2. Juego de Terror 3D (Unreal Engine 5 y Blender)**
-* **Qué es:** Proyecto de videojuego en desarrollo. Exportar e integrar assents 3D en el motor Unreal Engine 5 con scripts de movimiento y físicas.
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat-square&logo=render&logoColor=white) ![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?style=flat-square&logo=Codeberg&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=flat-square&logo=react) ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=flat-square&logo=javafx&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=flat-square&logo=sketchup&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat-square&logo=unrealengine&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat-square&logo=steam&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=flat-square&logo=epicgames&logoColor=white) ![OpenSea](https://img.shields.io/badge/OpenSea-%232081E2.svg?style=flat-square&logo=opensea&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Leooo2005&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Leooo2005&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Leooo2005&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Leooo2005&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Leooo2005&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://komarev.com/ghpvc/?username=Leooo2005&icon=10&color=13)](https://visitcount.itsvg.in)
+
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/ElLeon20) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
